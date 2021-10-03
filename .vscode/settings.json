@@ -1,0 +1,4 @@
+{
+    "markdown-pdf.displayHeaderFooter": false,
+    "markdown-pdf.outputDirectory": "dist"
+}
