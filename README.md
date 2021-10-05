@@ -2,16 +2,22 @@
 
 ## Table of Contents
 
+1. [Introduction](#introduction)
 1. [Creating A Github Account](#creating-a-github-account)
 1. [Downloading GitHub Desktop](#downloading-github-desktop)
 1. [Accepting an Assignment](#accepting-an-assignment)
 1. [Cloning a Repository](#cloning-a-repository)
+1. [Importing a Project into Eclipse](#importing-a-project-into-eclipse)
 1. [Making a Commit](#making-a-commit)
-1. [Pushing to GitHub](#pushing-to-github)
+1. [Pushing Changes to GitHub](#pushing-changes-to-github)
+
+## Introduction
+
+GitHub is a platform that allows you to store your code in the cloud and easily keep track of the changes that you make. You can think of it like Google Docs, but built specifically for developers like you! In this quickstart, you'll learn the essentials needed to get you up and started using GitHub for this class
+
+> **Fun Fact:** We're using GitHub right now to host and version control this quickstart guide! Feel free to [check us out](https://github.com/nsudhakaran679/hhs-github-quickstart) there!
 
 ## Creating a GitHub Account
-
-GitHub is a platform that allows you to store your code in the cloud and easily keep track of the changes that you make. You can think of it like Google Docs, but built specifically for developers like you!
 
 To get started with GitHub, you need to create an account. Open [github.com](https://www.github.com) in your browser and it should take you to a page that looks like this:
 
@@ -71,6 +77,8 @@ Either way, you should be taken to your GitHub dashboard. Congratulations! You'v
 
 ## Cloning a Repository
 
+## Importing a Project into Eclipse
+
 ## Making a Commit
 
-## Pushing to GitHub
+## Pushing Changes to GitHub
