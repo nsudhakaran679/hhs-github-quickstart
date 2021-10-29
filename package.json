@@ -3,8 +3,7 @@
   "description": "The official Homestead High School GitHub Quickstart Guide by the wonderful TA's: Rohan Parikh and Neel Sudhakaran.",
   "scripts": {
     "format": "prettier --write README.md CONTRIBUTING.md",
-    "prepare": "husky install",
-    "lint": "remark ."
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
